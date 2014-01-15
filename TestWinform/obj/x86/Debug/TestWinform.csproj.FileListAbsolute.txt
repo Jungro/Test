@@ -1,0 +1,10 @@
+D:\Projects\TestProject2010\TestProject\TestWinform\bin\Debug\TestWinform.exe
+D:\Projects\TestProject2010\TestProject\TestWinform\bin\Debug\TestWinform.pdb
+D:\Projects\TestProject2010\TestProject\TestWinform\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\TestProject2010\TestProject\TestWinform\obj\x86\Debug\TestWinform.Properties.Resources.resources
+D:\Projects\TestProject2010\TestProject\TestWinform\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\TestProject2010\TestProject\TestWinform\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\TestProject2010\TestProject\TestWinform\obj\x86\Debug\TestWinform.exe
+D:\Projects\TestProject2010\TestProject\TestWinform\obj\x86\Debug\TestWinform.pdb
+D:\Projects\TestProject2010\TestWinform\obj\x86\Debug\TestWinform.exe
+D:\Projects\TestProject2010\TestWinform\obj\x86\Debug\TestWinform.pdb
